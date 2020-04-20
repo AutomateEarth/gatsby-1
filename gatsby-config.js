@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Omesa',
-    author: 'Jim Peterson'
+    title: 'Single Father\'s Initiative',
+    author: 'Omesa'
   },
   plugins: [
     'gatsby-plugin-sass',
